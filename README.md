@@ -1,6 +1,7 @@
 # KNUP APP (projetoknup)
 
 Projeto da uninove feito pelos alunos Natan Freire Maia e Karolaine Barros Menêses.
+
 Segue o link do site publicado: [https://projetoknupuni9.netlify.app/](https://projetoknupuni9.netlify.app/)
 
 ## Install the dependencies
