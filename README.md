@@ -6,7 +6,7 @@ Segue o link do site publicado: [https://projetoknupuni9.netlify.app/](https://p
 
 <p align="center">
   <img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png" alt="Logo do Projeto"> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
   <img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png" alt="Logo do Projeto">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png" alt="Logo do Projeto">
