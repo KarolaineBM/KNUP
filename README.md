@@ -1,5 +1,6 @@
 # KNUP (projeto)  
-
+<img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png" alt="Logo 1"  width="100">
+ 
 Projeto da uninove feito pelos alunos Natan Freire Maia e Karolaine Barros Menêses.
 
 Segue o link do site publicado: [https://projetoknupuni9.netlify.app/](https://projetoknupuni9.netlify.app/)
