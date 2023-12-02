@@ -1,7 +1,7 @@
-# KNUP (projeto)  
-<p align="center">
-<img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png" alt="Logo 1"  width="100">
+# KNUP (projeto)  <p align="center">
+<img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png" alt="Logo 1"  width="50">
 </p>
+
 
  
 Projeto da uninove feito pelos alunos Natan Freire Maia e Karolaine Barros Menêses.
