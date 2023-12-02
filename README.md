@@ -5,13 +5,12 @@ Projeto da uninove feito pelos alunos Natan Freire Maia e Karolaine Barros Menê
 Segue o link do site publicado: [https://projetoknupuni9.netlify.app/](https://projetoknupuni9.netlify.app/)
 
 <p align="center">
-  <img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png" alt="Logo do Projeto"> 
+  <img src="[https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png](https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/apple-touch-icon.png)" alt="Logo do Projeto"> 
    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png" alt="Logo do Projeto">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png" alt="Logo do Projeto">
- 
- </p>
+  </p>
 
 ## Install the dependencies
 ```bash
