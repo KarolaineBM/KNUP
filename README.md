@@ -8,7 +8,8 @@ Segue o link do site publicado: [https://projetoknupuni9.netlify.app/](https://p
   <img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/android-chrome-192x192.png" alt="Logo 1">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/cashback.png" alt="Logo 2" width="100">
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/KarolaineBM/KNUP/blob/b6f4066e325b5d94abbcf7ec48a33f73009106df/src/assets/cashback.png" alt="Logo 2" width="100">
 </p>
 
 ## Install the dependencies
