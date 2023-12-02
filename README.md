@@ -1,4 +1,4 @@
-# KNUP APP (projetoknup)
+# KNUP (projeto)
 
 Projeto da uninove feito pelos alunos Natan Freire Maia e Karolaine Barros Menêses.
 
